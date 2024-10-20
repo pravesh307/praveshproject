@@ -29,10 +29,32 @@ The app interacts with the following API endpoints:
 
 ### Installation
 
-1. Clone the repository: https://github.com/pravesh307/praveshproject.git
-2. Open the project in Android Studio.
-3. Sync Gradle by clicking "Sync Now" when prompted.
-4. Run the app on an emulator or a physical device.
+Sure! Here’s a clearer version of the installation instructions:
+
+### Installation Instructions
+
+1. **Clone the Repository**: Go to the repository at [https://github.com/pravesh307/praveshproject.git](https://github.com/pravesh307/praveshproject.git) and clone it.
+
+2. **Download as Zip**:
+   - Look for the green "Code" button on the repository page.
+   - Click it, then select "Download ZIP" from the dropdown menu.
+
+3. **Extract the Zip File**:
+   - Locate the downloaded file named `praveshproject-master.zip`.
+   - Extract the contents of the zip file.
+
+4. **Open the Project**:
+   - You should see a folder named `praveshproject-master` after extraction.
+   - Open **Android Studio** and choose **Open an existing Android Studio project**.
+   - Select the entire `praveshproject-master` folder (do not open individual files or subfolders).
+
+5. **Sync Gradle**:
+   - Once the project is open, Android Studio may prompt you to sync Gradle. Click on the "Sync Now" button when prompted.
+
+6. **Run the App**:
+   - You can now run the app on either an emulator or a physical device connected to your computer.
+
+Feel free to reach out if you have any questions!
 
    Running the App
 #Login:
