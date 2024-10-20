@@ -49,5 +49,13 @@ dependencies {
     // Retrofit and Gson for API calls
     implementation ("com.squareup.retrofit2:retrofit:2.9.0")
     implementation ("com.squareup.retrofit2:converter-gson:2.9.0")
+// JUnit for testing
+    testImplementation("junit:junit:4.13.2")
+
+    // Mockito for mocking
+    testImplementation("org.mockito:mockito-core:3.11.2")
+
+    // Mockito-Kotlin
+    testImplementation("org.mockito.kotlin:mockito-kotlin:4.0.0")
 
 }
